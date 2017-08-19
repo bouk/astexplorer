@@ -1,0 +1,4 @@
+# Hello to all participants!
+{{range .}}
+* Hi there {{.}}
+{{- end}}
